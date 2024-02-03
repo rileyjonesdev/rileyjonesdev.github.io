@@ -161,15 +161,15 @@ button:hover {
   margin-right: auto;
 }
 .gnotice {
-  padding-top: 50px;
-  padding-bottom: 20px;
-  color: #48abe05f;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: #48abe09a;
 }
 .gnotice p {
   text-align: center;
 }
 .gnotice a {
-  border-bottom: 2px solid #48abe05f;
+  border-bottom: 2px solid #48abe09a;
   padding-bottom: 2px;
 }
 .hero_p1 img {
@@ -784,7 +784,7 @@ input[type="checkbox"] {
 
 .sct2_p4 {
   background-color: var(--blue);
-  height: 450px;
+  height: 500px;
 }
 .gright {
   float: right;
