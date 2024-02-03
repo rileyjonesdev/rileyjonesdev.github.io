@@ -116,5 +116,15 @@
   .sct2_p1 {
     padding-left: 25px;
   }
+  #closemenu {
+    right: 30px;
+    top: 20px;
+    font-size: 40px;
+  }
+  #mobilemenu li {
+    font-size: 300%;
+  }
+  #mobilemenu {
+    padding-top: 200px;
+  }
 }
-/* PAGE 2 :::  */
